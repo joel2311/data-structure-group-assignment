@@ -1,11 +1,10 @@
 """
-Coin Change using Dynamic Programming
+Problem 2 - Dynamic Programming: Coin Change 
 
 This console program finds the minimum number of coins needed to make a target
 amount. It accepts user input, validates it, runs the dynamic programming
 algorithm, and displays the results using tables and lists.
 
-No external libraries are used.
 """
 
 def get_positive_integer(prompt):
