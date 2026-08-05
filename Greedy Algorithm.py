@@ -3,8 +3,8 @@ Problem 1 - Greedy Algorithm: Activity Selection Problem
 Scenario: Hall Booking Scheduler for Clubs
 
 Multiple clubs want to book the same venue for one day. Each club
-submits a request with a start and end time (24-hour clock, e.g., 08:30), 
-but the venue can only accommodate one club at a time. We want to select 
+submits a request with a start and end time. However
+the venue can only accommodate one club at a time. The result should select 
 the maximum number of non-clashing club bookings.
 """
 
