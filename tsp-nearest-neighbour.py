@@ -138,6 +138,7 @@ def nearest_neighbour(cities, distances, starting_city):
 
     visited[current_city] = True
 
+    # Continue until the route contains every city.
     while len(route) < number_of_cities:
         nearest_city = -1
         nearest_distance = float("inf")
