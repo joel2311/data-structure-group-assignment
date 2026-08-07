@@ -1,5 +1,5 @@
 """
-Travelling Salesman Problem using the Nearest Neighbour Heuristic.
+Part 3 - Travelling Salesman Problem using the Nearest Neighbour Heuristic.
 
 The program asks the user to enter cities and the distances between them.
 It then visits the nearest unvisited city until every city has been visited,

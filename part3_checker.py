@@ -1,8 +1,8 @@
-"""Automated checker for ``tsp-nearest-neighbour.py``.
+"""Automated checker for ``Part 3 - Travelling Salesman Problem``.
 
 Run from a terminal with:
 
-    python test_tsp_nearest_neighbour.py
+    python part3_checker.py
 
 The checker does not modify the original TSP program. It imports the program
 as a module, supplies controlled test data, and reports whether each behaviour
